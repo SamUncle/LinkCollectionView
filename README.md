@@ -1,0 +1,2 @@
+# LinkCollectionView
+上下联动collectionView
